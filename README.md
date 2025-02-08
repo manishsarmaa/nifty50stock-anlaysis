@@ -5,9 +5,9 @@ This repository contains an interactive dashboard created in Tableau for analyzi
 ## Preview:
 
 ### You can try it with the following link:
-**[Dashboard Live](https://public.tableau.com/views/Dashboard_17385920524510/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** (Replace with your actual link)
+**[Dashboard Live](https://public.tableau.com/views/Dashboard_17385920524510/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
 
-![Dashboard Preview]() 
+![Dashboard Preview](Dashborad.png) 
 
 ## 📈 Features
 
