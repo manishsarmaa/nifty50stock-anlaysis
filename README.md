@@ -42,5 +42,5 @@ This dashboard offers a variety of interactive visualizations, including:
 ## 👩‍💻 Author
 
 **Manish Sharma**
-- Github: [@manishsarmaa]
+- Github: [@manishsarmaa](https://github.com/manishsarmaa)
 - Email: manishsarmaa@gmail.com
