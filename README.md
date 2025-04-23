@@ -22,7 +22,6 @@ This dashboard offers a variety of interactive visualizations, including:
 * **MACD (Moving Average Convergence Divergence):**  Visualize momentum and trend reversals.
 * **Bollinger Bands:**  Assess volatility and potential price breakouts.
 
-... and more (add any other features you've included).
 
 ## 🛠 Data & Tooling
 
